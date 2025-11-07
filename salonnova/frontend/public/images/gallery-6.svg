@@ -1,0 +1,13 @@
+<svg width="360" height="260" viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-gallery" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fde5f1" />
+      <stop offset="100%" stop-color="#f9d4c6" />
+    </linearGradient>
+  </defs>
+  <rect width="360" height="260" rx="28" fill="url(#grad-gallery)" />
+  <path d="M40 200C90 150 130 190 170 150C210 110 250 120 320 60" stroke="#d97373" stroke-width="12" stroke-linecap="round" fill="none" opacity="0.6" />
+  <circle cx="90" cy="110" r="36" fill="#fff" opacity="0.7" />
+  <circle cx="230" cy="140" r="28" fill="#fff" opacity="0.5" />
+  <text x="50%" y="90%" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="22" fill="#b04863">Salon Moment 6</text>
+</svg>
